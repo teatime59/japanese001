@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Webページ練習</title>
+</head>
+<body>
+<h1>第一章 入門編</h1>
+<h2>1.1 ブラウザとは</h2>
+ブラウザとはさまざまなWEB情報を表示するための
+クライアント用の閲覧ソフトです。さまざまな・・・
+<h2>1.2 HTMLとは</h2>
+HTML とは HyperText Markup Language の略で・・・
+</body>
+</html>
